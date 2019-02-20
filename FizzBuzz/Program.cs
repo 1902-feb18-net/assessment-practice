@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 //For each number from 1 to 1000 in order,
 //* print "Fizz" for the ones divisible by 3 (& not 5)
