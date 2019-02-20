@@ -38,9 +38,7 @@ namespace FizzBuzz
                     Console.WriteLine(i);
             }
 
-            Console.WriteLine(fizzNum + " Fizz");
-            Console.WriteLine(buzzNum + " Buzz");
-            Console.WriteLine(fizzBuzzNum + " FizzBuzz");
+            Console.WriteLine($"Fizz: {fizzNum}, Buzz: {buzzNum}, FizzBuzz: {fizzBuzzNum}");
 
             return;
         }
