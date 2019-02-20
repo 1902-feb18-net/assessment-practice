@@ -1,0 +1,11 @@
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\bin\Debug\netcoreapp2.2\Project.deps.json
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\bin\Debug\netcoreapp2.2\Project.runtimeconfig.json
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\bin\Debug\netcoreapp2.2\Project.runtimeconfig.dev.json
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\bin\Debug\netcoreapp2.2\Project.dll
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\bin\Debug\netcoreapp2.2\Project.pdb
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\obj\Debug\netcoreapp2.2\Project.csprojAssemblyReference.cache
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\obj\Debug\netcoreapp2.2\Project.csproj.CoreCompileInputs.cache
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\obj\Debug\netcoreapp2.2\Project.AssemblyInfoInputs.cache
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\obj\Debug\netcoreapp2.2\Project.AssemblyInfo.cs
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\obj\Debug\netcoreapp2.2\Project.dll
+C:\Users\mages\revature\Ben-Code\Visual Studio projects\assessment-practice\FizzBuzz\Project\obj\Debug\netcoreapp2.2\Project.pdb
