@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FizzBuzz.UI
+namespace FizzBuzz
 {
     public class Program
     {
