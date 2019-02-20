@@ -1,16 +1,16 @@
 ﻿using System;
 
-namespace Fizzbuzz
+namespace FizzBuzz
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Fizzbuzz start!!");
-            Fizzbuzz();
+            FizzBuzz();
         }
 
-        static void Fizzbuzz()
+        static void FizzBuzz()
         {
             var count = 1;
             var fbCount = 0;
@@ -21,7 +21,7 @@ namespace Fizzbuzz
             {
                 if(count % 15 == 0)
                 {
-                    Console.WriteLine("Fizzbuzz");
+                    Console.WriteLine("FizzBuzz");
                     fbCount++;
                 }
                 else if(count % 3 == 0)
@@ -41,7 +41,7 @@ namespace Fizzbuzz
                 count++;
             }
 
-            Console.WriteLine($"Fizzbuzz count is: {fbCount}, Fizz: {fCount}, Buzz is: {bCount}");
+            Console.WriteLine($"FizzBuzz count is: {fbCount}, Fizz: {fCount}, Buzz is: {bCount}");
         }
     }
 }
