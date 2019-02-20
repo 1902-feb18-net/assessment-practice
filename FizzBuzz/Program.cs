@@ -10,7 +10,7 @@ namespace FizzBuzz
             int countBuzz = 0;
             int countFizzBuzz = 0;
 
-            for (int i = 1; i < 1001; i++)
+            for (int i = 1; i <= 1000; i++)
             {
                 if ((i % 3 == 0) && (i % 5 != 0))
                 {
