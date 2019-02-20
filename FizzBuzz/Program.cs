@@ -13,24 +13,24 @@ namespace FizzBuzz
 
            while (x != 1001)
            {
-               if(x%3 == 0 && x%5 != 0)
+               if(x % 3 == 0 && x % 5 != 0)
                {
                    Console.WriteLine("Fizz ");
                    fizz++;
                }
-               else if(x%5 == 0 && x%3 != 0)
+               else if(x % 5 == 0 && x % 3 != 0)
                {
                    Console.WriteLine("Buzz ");
                    buzz++;
                }
-               else if(x%3 == 0 && x%5 == 0)
+               else if(x % 3 == 0 && x % 5 == 0)
                {
                    Console.WriteLine("FizzBuzz ");
                    fizzbuzz++;
                }
                else 
                {
-                   Console.WriteLine($" {x} ");
+                   Console.WriteLine(x);
                }
                x++;
            }
